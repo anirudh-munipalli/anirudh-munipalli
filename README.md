@@ -1,7 +1,6 @@
 ### Hi there 👋 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I'm working on a making a css framework.
 - 🌱 Learning Embedded Programming, and many frameworks and android app development.
